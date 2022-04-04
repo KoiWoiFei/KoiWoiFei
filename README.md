@@ -1,0 +1,5 @@
+- 👋 Team KoiWoiFei (SFZ Wangen)
+- 👀 Robocup 2022 Kassel OnStage
+- 🏀 Videogame Pong (1972) mit Robotern
+- 📥 https://sfz-bw.de/wangen/
+- 👨‍👧‍👦 Niklas, Peer
